@@ -1,0 +1,6 @@
+Thanks for downloading Blink's RPG Adventure!
+All characters have their respective animation controller, however no variables have been determined yet to change from one animation to another.
+All animations are done through sprite sheets. 
+Items such as bombs,gems, hearts and chests are supposed to be used as objects that you can interact with
+For any inquiry contact agmp.biu@gmail.com
+If this asset package was useful, feel free to donate: https://www.ko-fi.com/piniaart

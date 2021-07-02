@@ -1,0 +1,9 @@
+cloth-inventory.wav and metal-clash.wav from
+https://opengameart.org/content/inventory-sound-effects
+
+bird_flap.flac from
+https://opengameart.org/content/flap-splat-poo-yo-frankie
+
+scavengers sound effects from Unity Technologies
+
+Secret Garden from Daynya Vodovoz
